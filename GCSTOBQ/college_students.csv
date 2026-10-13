@@ -1,0 +1,31 @@
+student_id,student_name,gender,department,year,city,state,admission_date,fees
+1001,Aarav Sharma,Male,CSE,1,Hyderabad,Telangana,15-06-2024,85000
+1002,Diya Patel,Female,ECE,2,Vijayawada,Andhra Pradesh,20-06-2023,82000
+1003,Rohan Gupta,Male,MECH,3,Mumbai,Maharashtra,18-06-2022,78000
+1004,Ananya Reddy,Female,CSE,4,Bengaluru,Karnataka,12-06-2021,90000
+1005,Arjun Kumar,Male,CIVIL,1,Chennai,Tamil Nadu,01-07-2024,75000
+1006,Sneha Singh,Female,EEE,2,Pune,Maharashtra,10-07-2023,80000
+1007,Vikram Rao,Male,CSE,3,Hyderabad,Telangana,05-07-2022,88000
+1008,Priya Nair,Female,ECE,4,Kochi,Kerala,08-07-2021,81000
+1009,Karan Mehta,Male,MECH,1,Ahmedabad,Gujarat,25-06-2024,77000
+1010,Meera Joshi,Female,CSE,2,Jaipur,Rajasthan,30-06-2023,89000
+1011,Rahul Verma,Male,EEE,3,Lucknow,Uttar Pradesh,28-06-2022,79000
+1012,Kavya Das,Female,CIVIL,4,Bhubaneswar,Odisha,22-06-2021,76000
+1013,Aditya Mishra,Male,CSE,1,Patna,Bihar,03-07-2024,87000
+1014,Nisha Kapoor,Female,ECE,2,Delhi,Delhi,06-07-2023,83000
+1015,Sandeep Yadav,Male,MECH,3,Indore,Madhya Pradesh,02-07-2022,78500
+1016,Pooja Roy,Female,CSE,4,Kolkata,West Bengal,04-07-2021,91000
+1017,Harish Kumar,Male,EEE,1,Visakhapatnam,Andhra Pradesh,19-06-2024,80500
+1018,Neha Jain,Female,CIVIL,2,Surat,Gujarat,21-06-2023,74500
+1019,Manoj Reddy,Male,CSE,3,Tirupati,Andhra Pradesh,24-06-2022,89500
+1020,Aisha Khan,Female,ECE,4,Hyderabad,Telangana,26-06-2021,84000
+1021,Ritesh Singh,Male,MECH,1,Kanpur,Uttar Pradesh,08-07-2024,77200
+1022,Shreya Iyer,Female,CSE,2,Chennai,Tamil Nadu,11-07-2023,88500
+1023,Amit Choudhary,Male,EEE,3,Nagpur,Maharashtra,09-07-2022,79800
+1024,Divya Menon,Female,CIVIL,4,Thiruvananthapuram,Kerala,07-07-2021,75500
+1025,Varun Gupta,Male,CSE,1,Noida,Uttar Pradesh,12-07-2024,86500
+1026,Rahul ,Male,ECE,2,Hyderabad,Telangana,11-07-2023,90000
+1027,Rakesh,Male,CSE,3,Vijayawada,Andhra Pradesh,23-08-2022,85000
+1028,Supriya,Female,CSE,2,madras,Tamil Nadu,11-07-2023,66000
+1029,Mahesh,Male,MECH,3,Vijayawada,Andhra Pradesh,11-06-2022,74000
+1030,Raju,Male,CIVIL,2,Tirupati,Andhra Pradesh,11-07-2023,56000
